@@ -1,2 +1,1 @@
 require("darshan")
-print("hello")
